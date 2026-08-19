@@ -90,7 +90,14 @@ Practiced Python's built-in string methods for searching, formatting, modifying,
 This repository contains concept-wise coding examples, practice programs, assignments, pattern problems, and mini implementations to strengthen problem-solving skills.
 
 ---
+# FUNCTIONS 
 
+* Learned the complete **Functions concept in Python**, from scratch to advanced level.
+* Covered **Functions, Parameters, Arguments, Default & Keyword Arguments, `*args`, and `**kwargs`**.
+* Learned **Lambda functions, Recursion, and Variable Scope** in detail.
+* Gained a strong understanding of how functions are used to write **modular, reusable, and efficient Python code**.
+
+---
 ## 🚀 Current Learning
 
 * Advanced Python
