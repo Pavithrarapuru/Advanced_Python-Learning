@@ -97,6 +97,16 @@ This repository contains concept-wise coding examples, practice programs, assign
 * Learned **Lambda functions, Recursion, and Variable Scope** in detail.
 * Gained a strong understanding of how functions are used to write **modular, reusable, and efficient Python code**.
 
+# EXCEPTION HANDLING
+
+Exception Handling
+Learned how to handle runtime errors using try and except.
+Covered else and finally blocks.
+Learned about built-in and custom exceptions.
+Practiced raising exceptions using raise.
+Understood exception hierarchy and multiple exception handling.
+Implemented exception handling in practical Python programs.
+
 ---
 ## 🚀 Current Learning
 
