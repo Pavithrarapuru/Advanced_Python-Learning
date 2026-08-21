@@ -107,6 +107,14 @@ Practiced raising exceptions using raise.
 Understood exception hierarchy and multiple exception handling.
 Implemented exception handling in practical Python programs.
 
+# FILE HANDLING
+
+Learned how to read files using read(), readline(), readlines(), and file iteration.
+Learned how to write data using write() and writelines().
+Understood file modes like read, write, and append.
+Learned about file pointers, buffering, flush(), and close().
+Used context managers (with) for safe and automatic file resource management.
+
 ---
 ## 🚀 Current Learning
 
